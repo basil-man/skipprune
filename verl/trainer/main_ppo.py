@@ -73,7 +73,7 @@ SOURCE_TO_SCORE_FN = {
 
 SOURCE_TO_SCORE_FN_WITH_FORMAT = {
     "openai/gsm8k": gsm8k.compute_score,
-    "math": qwen_math.compute_score_r1,
+    "math": qwen_math.compute_score,
     "code": code.compute_score,
 }
 

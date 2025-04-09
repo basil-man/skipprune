@@ -129,3 +129,5 @@ numia_*
 tmp.py
 logs/
 
+deepseek-ai/*
+Qwen/*
